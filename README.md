@@ -1,2 +1,2 @@
 # stronghold
-Configurable authentication for express applications
+Configurable authentication for express applications.
